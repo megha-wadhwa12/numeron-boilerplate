@@ -39,6 +39,7 @@ greater_than.onclick = () => {
 } else {
     window.open("./gameover.html", "_self");
 }
+
 generateRandomNumbers();
 };
 
